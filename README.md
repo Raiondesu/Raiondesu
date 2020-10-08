@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display:flex;justify-content:space-between;align-items:start;">
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raiondesu&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiondesu&layout=compact" />
+</div>
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raiondesu) -->
