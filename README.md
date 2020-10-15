@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiondesu&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiondesu&layout=compact)
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raiondesu) -->
