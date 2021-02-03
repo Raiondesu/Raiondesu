@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiondesu&count_private=true&show_icons=true&custom_title=GitHub&theme=vue-dark&nbsp;Stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiondesu&theme=vue-dark&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats)
 
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raiondesu) -->
