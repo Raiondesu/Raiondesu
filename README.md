@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Raiondesu&hide_border=true&count_private=true&custom_title=GitHub&nbsp;Stats&icon_color=58a6ff&show_icons=true" />
 </picture>
-<br/>
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiondesu&layout=compact&hide_border=true&count_private=true&show_icons=true&icon_color=58a6ff&text_color=aaa&hide_title=true&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiondesu&layout=compact&hide_border=true&count_private=true&show_icons=true&icon_color=58a6ff&text_color=aaa&title_color=aaa&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
