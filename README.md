@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://gh-stats.raiondesu.dev/api?username=Raiondesu&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats&icon_color=58a6ff&text_color=aaa&theme=transparent"
   media="(prefers-color-scheme: dark)"
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://gh-stats.raiondesu.dev/api/top-langs/?username=Raiondesu&layout=compact&hide_border=true&count_private=true&icon_color=58a6ff&show_icons=true" />
-</picture>
+</picture> -->
